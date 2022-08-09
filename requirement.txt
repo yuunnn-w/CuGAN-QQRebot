@@ -1,0 +1,10 @@
+需要以下外部库
+具体版本不清楚，反正升级到最高级应该可以
+cv2
+pdb
+torch
+numpy
+functools
+glob
+flask
+gevent
